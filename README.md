@@ -1,6 +1,6 @@
 Hi, I’m Justin! 
 
-I'm a Software Developer with 3 years of experience.
+I'm a Software Developer with 3 years of experience programming, and 8 years of experience in the game industry.
 My latest role was as the Lead Game Developer at TipsyCoin (https://tipsycoin.io).
 Currently I am freelancing and searching for a full-time role as a developer since that project was finished.
 
