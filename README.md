@@ -2,7 +2,7 @@ Hi, I’m Justin!
 
 I'm a Software Developer with 3 years of experience programming, and 8 years of experience making online games.
 My previous role was as the Lead Game Developer at TipsyCoin (https://tipsycoin.io).
-Currently I am freelancing and searching for a full-time role as a developer since that project was finished.
+Currently I am freelancing and searching for a full-time role as a developer since that project is finished.
 
 I also created and managed ConspiracyCraft, a Minecraft server that was home played by 250,000 unique players over its lifespan (2013-2020).
 You can check it out here: https://conspiracycraft.net. 
