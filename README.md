@@ -4,7 +4,7 @@ I'm a Software Developer with 3 years of experience programming, and 8 years of 
 My previous role was as the Lead Game Developer at TipsyCoin (https://tipsycoin.io).
 Currently I am freelancing and searching for a full-time role as a developer since that project is finished.
 
-I also created and managed ConspiracyCraft, a Minecraft server that was home played by 250,000 unique players over its lifespan (2013-2020).
+I also created and managed ConspiracyCraft, a Minecraft server that was played by 250,000 unique players over its lifespan (2013-2020).
 You can check it out here: https://conspiracycraft.net. 
 
 I'm based in the US and enjoy nice bike rides, old runescape soundtracks, learning new things and building cool software! 
