@@ -15,6 +15,8 @@ Email: contact@justinmtech.com
 
 Discord: Jamm#0747
 
+Latest software builds (Jenkins): http://justinm.tech:8080/job/Webank/
+
 <!---
 justinmtech/justinmtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
