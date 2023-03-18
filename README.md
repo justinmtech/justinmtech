@@ -7,6 +7,8 @@ Currently I am freelancing and searching for a full-time role as a developer sin
 I also created and managed ConspiracyCraft, a Minecraft server that was played by 250,000 unique players over its lifespan (2013-2020).
 You can check it out here: https://conspiracycraft.net. 
 
+Currently I'm working on a new Minecraft project called Zen Survival. It's a completely custom upcoming Survival RPG with Guilds, Stats, Runes and more! https://discord.gg/T9ATFU7Zhs
+
 I'm based in the US and enjoy nice bike rides, old runescape soundtracks, learning new things and building cool software! 
 
 Feel free to say hi or reach out with a business proposal!
