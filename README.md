@@ -8,10 +8,9 @@ After a break from the community, I felt something deep in my soul calling me ba
 I'm based in the US and enjoy nice bike rides, old runescape soundtracks, learning new things and building cool software.
 
 Email: contact@justinmtech.com
-
 Discord: Jamm#0747
 
-Latest software builds (Jenkins): http://justinm.tech:8080
+[Latest software builds](http://justinm.tech:8080)
 
 <!---
 justinmtech/justinmtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
