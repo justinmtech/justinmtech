@@ -1,17 +1,11 @@
 Hi, I’m Justin! 
 
-I'm a Software Developer with 3 years of experience programming, and 8 years of experience making online games.
-My previous role was as the Lead Game Developer at TipsyCoin (https://tipsycoin.io).
-Currently I am freelancing and searching for a full-time role as a developer since that project is finished.
+I'm a Game Developer @ Affinity Development. Currently I'm working on a new Minecraft project called Zen Survival. It's a completely custom upcoming Survival RPG with Guilds, Stats, Runes and more! https://discord.gg/T9ATFU7Zhs
 
-I also created and managed ConspiracyCraft, a Minecraft server that was played by 250,000 unique players over its lifespan (2013-2020).
-You can check it out here: https://conspiracycraft.net. 
+I created and managed ConspiracyCraft, a Minecraft server that was played by 250,000 unique players over its lifespan (2013-2020).
+You can check it out here: https://conspiracycraft.net. After a break from the community, I felt called back, so here I am!
 
-Currently I'm working on a new Minecraft project called Zen Survival. It's a completely custom upcoming Survival RPG with Guilds, Stats, Runes and more! https://discord.gg/T9ATFU7Zhs
-
-I'm based in the US and enjoy nice bike rides, old runescape soundtracks, learning new things and building cool software! 
-
-Feel free to say hi or reach out with a business proposal!
+I'm based in the US and enjoy nice bike rides, old runescape soundtracks, learning new things and building cool software.
 
 Email: contact@justinmtech.com
 
