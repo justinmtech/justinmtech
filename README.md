@@ -1,6 +1,7 @@
 Hi, I’m Justin! 
 
-I created and managed [ConspiracyCraft](https://conspiracycraft.net), a Minecraft server that was played by 250,000 unique players over its lifespan (2013-2020).
+I'm currently running [Based Quotes](https://basedquotes.com), which is a website and community for those pursuing meaning and truth. 
+Back in the day, I created and managed [ConspiracyCraft](https://conspiracycraft.net), a Minecraft server that was played by 250,000 unique players over its lifespan (2013-2020).
 
 I'm based in the US and enjoy nice bike rides, old runescape soundtracks, learning new things and building cool software.
 
